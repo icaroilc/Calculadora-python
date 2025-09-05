@@ -18,9 +18,3 @@ A aplicação permite realizar as quatro operações matemáticas básicas: **so
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/calculadora-python.git
-   
-acesse a pasta do projeto   
-cd calculadora-python
-
-execute o programa
-python calculadora.py
